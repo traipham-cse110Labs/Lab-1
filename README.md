@@ -2,4 +2,4 @@ Trai's User Page
 
 My favorite programming language is java.\
 
-URL to GitHub pages site: traipham.github.io
+GitHub pages site: ![GitHub-Pages-Site](traipham.github.io)
